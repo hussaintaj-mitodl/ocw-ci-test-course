@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/gdrive_uploads/ocw-ci-test-course/1heExJapmYR47C1bOYy8DNUwyrshNkNCe/ocw_test_course_mit8_01f16_l01v01_360p.mp4
+file: /gdrive_uploads/ocw-ci-test-course/1heExJapmYR47C1bOYy8DNUwyrshNkNCe/ocw_test_course_mit8_01f16_l01v01_360p.mp4
 file_size: 11832129
 file_type: video/mp4
 image_metadata:
