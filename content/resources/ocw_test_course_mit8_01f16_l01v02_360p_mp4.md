@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ocw-ci-test-course/1EL3mdmU6Lf0RjxNgxMrx2A7HkfnAg0x3/ocw_test_course_mit8_01f16_l01v02_360p.mp4
+file: /https%3A/ol-ocw-studio-app.s3.amazonaws.com/https%253A/ol-ocw-studio-app.s3.amazonaws.com/https%25253A/ol-ocw-studio-app.s3.amazonaws.com/gdrive_uploads/ocw-ci-test-course/1EL3mdmU6Lf0RjxNgxMrx2A7HkfnAg0x3/ocw_test_course_mit8_01f16_l01v02_360p.mp4
 file_size: 11518475
 file_type: video/mp4
 image_metadata:
