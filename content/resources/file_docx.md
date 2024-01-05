@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /https%3A/ol-ocw-studio-app.s3.amazonaws.com/https%253A/ol-ocw-studio-app.s3.amazonaws.com/https%25253A/ol-ocw-studio-app.s3.amazonaws.com/courses/ocw-ci-test-course/file.docx
+file: /courses/ocw-ci-test-course/file.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''

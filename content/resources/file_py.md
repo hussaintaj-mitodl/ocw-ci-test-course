@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /https%3A/ol-ocw-studio-app.s3.amazonaws.com/https%253A/ol-ocw-studio-app.s3.amazonaws.com/https%25253A/ol-ocw-studio-app.s3.amazonaws.com/courses/ocw-ci-test-course/file.py
+file: /courses/ocw-ci-test-course/file.py
 file_type: text/x-python-script
 image_metadata:
   caption: ''
